@@ -9,13 +9,7 @@
   <description>@description@</description>
   <url>@project.url@</url>
 
-  <licenses>
-    <license>
-      <name>The Unlicense</name>
-      <url>http://unlicense.org/UNLICENSE</url>
-      <distribution>repo</distribution>
-    </license>
-  </licenses>
+  
 
   <scm>
     <connection>
